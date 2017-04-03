@@ -1,0 +1,98 @@
+.title
+{
+  color: blue;
+  position: relative;
+  float: left;
+  left: 150px;
+}
+body
+{
+  background-image: url(http://media3.giphy.com/media/kEKcOWl8RMLde/giphy.gif);
+/*background-image: url(http://wallpapercave.com/wp/rZqCuTF.jpg);*/
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+.P1
+{
+  position: relative;
+  color: white;
+  font-size: 150%;
+  font-style: italic;
+  font-family: fantasy;
+  height: 1300px;
+  width:750px;
+  /*left: 50px*/
+  float: right;
+  display: block;
+  padding: 40px;
+  /*background-color: gray;*/
+  opacity: 190px;
+
+}
+
+.Name
+{
+font-style: oblique;
+font-size: 250%;
+font-weight: bold;
+color: red;
+
+}
+
+.Portfolio
+{
+  font-size: 450%;
+  font-weight: 600;
+  font-display: fallback;
+  color: yellow;
+text-decoration: none;
+
+}
+
+.Portfolio span
+{
+  display: none;
+
+}
+/*.Portfolio:hover*/
+{
+z-index: 20;
+}
+
+.Portfolio:hover span
+{
+display: grid;
+color: yellow;
+background-color: white;
+width: 500px;
+}
+.url
+{
+font-size: 80%
+}
+.Cartoon
+{
+imag.animated-gif {width:1280px height:1280px}
+}
+.Con
+{
+  font-size: 500%;
+  color: Blue;
+  font-weight: bolder;
+  font-style: oblique;
+}
+
+.font
+{
+font-size: 150%
+}
+
+.Picture
+
+{
+float: right;
+height: 450px;
+width: 0px;
+top: 300px
+}
